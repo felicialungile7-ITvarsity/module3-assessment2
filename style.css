@@ -30,7 +30,7 @@ html {
 /*============ HEADER ============*/
 
 .header {
-    background-color:yellow;
+    background-color: palevioletred;
     
     width: 100%;
     height: 50px;
@@ -101,7 +101,7 @@ html {
 }
 
 .meals-list-item {
-    border: 5px solid black;
+    border: 5px solid #1a1a1a;
     margin: 10px;
 }
         
@@ -121,7 +121,7 @@ html {
 .meals-list-item p {
     font-size: 15px;
     font-style: italic;
-    color:blueviolet;
+    color: #4d4d4d;
      margin-top: -7px;
      padding-left: 10px;       
 }         
@@ -230,13 +230,13 @@ textarea{
     width: 100%;
     height: 25px;
     margin: 12px 0;
-    border: 1px solid black;
+    border: 1px solid #929292;
 }
 
 .button{
     display: block;
     width: 100%;
-    background-color:coral;
+    background-color: yellow;
     text-decoration: none;
     text-align: center;
     color: white;
@@ -247,6 +247,3 @@ textarea{
     
 }
 
-
-        
-}
